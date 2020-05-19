@@ -1,0 +1,243 @@
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\WebSchedule.dll.config
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\WebSchedule.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\WebSchedule.pdb
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\csc.exe
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\csc.exe.config
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\csc.rsp
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\csi.exe
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\csi.exe.config
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\csi.rsp
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.AppContext.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Console.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Globalization.Calendars.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.IO.Compression.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Net.Http.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Net.Sockets.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.ValueTuple.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Xml.XPath.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\vbc.exe
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\vbc.exe.config
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\vbc.rsp
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\VBCSCompiler.exe
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Antlr3.Runtime.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\EntityFramework.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\EntityFramework.SqlServer.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.Cors.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Newtonsoft.Json.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Owin.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Net.Http.Formatting.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Cors.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Helpers.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Http.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Http.Owin.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Http.WebHost.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Mvc.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Razor.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.WebPages.Deployment.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.WebPages.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.WebPages.Razor.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\WebGrease.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\EntityFramework.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\EntityFramework.SqlServer.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.Cors.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Newtonsoft.Json.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Http.Owin.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Net.Http.Formatting.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Helpers.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Http.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Http.WebHost.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Mvc.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.Razor.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.WebPages.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.WebPages.Deployment.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\System.Web.WebPages.Razor.xml
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\bin\Antlr3.Runtime.pdb
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\obj\Debug\WebSchedule.csprojAssemblyReference.cache
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\obj\Debug\WebSchedule.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\obj\Debug\WebSchedule.csproj.CopyComplete
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\obj\Debug\WebSchedule.dll
+D:\Study\2 курс\2 семестр\Курсова\Web Schedule\WebSchedule\obj\Debug\WebSchedule.pdb
+D:\Study\Web Schedule\WebSchedule\bin\WebSchedule.dll.config
+D:\Study\Web Schedule\WebSchedule\bin\WebSchedule.dll
+D:\Study\Web Schedule\WebSchedule\bin\WebSchedule.pdb
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\csc.exe
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\csc.exe.config
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\csc.rsp
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\csi.exe
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\csi.exe.config
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\csi.rsp
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.AppContext.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Console.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Globalization.Calendars.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.IO.Compression.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Net.Http.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Net.Sockets.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.ValueTuple.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Xml.XPath.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\vbc.exe
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\vbc.exe.config
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\vbc.rsp
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\VBCSCompiler.exe
+D:\Study\Web Schedule\WebSchedule\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Web Schedule\WebSchedule\bin\Antlr3.Runtime.dll
+D:\Study\Web Schedule\WebSchedule\bin\EntityFramework.dll
+D:\Study\Web Schedule\WebSchedule\bin\EntityFramework.SqlServer.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Cors.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Web Schedule\WebSchedule\bin\Newtonsoft.Json.dll
+D:\Study\Web Schedule\WebSchedule\bin\Owin.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Net.Http.Formatting.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Cors.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Helpers.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Http.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Http.Owin.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Http.WebHost.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Mvc.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Razor.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.WebPages.Deployment.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.WebPages.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.WebPages.Razor.dll
+D:\Study\Web Schedule\WebSchedule\bin\WebGrease.dll
+D:\Study\Web Schedule\WebSchedule\bin\EntityFramework.xml
+D:\Study\Web Schedule\WebSchedule\bin\EntityFramework.SqlServer.xml
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.xml
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Cors.xml
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.xml
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\Web Schedule\WebSchedule\bin\Newtonsoft.Json.xml
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Http.Owin.xml
+D:\Study\Web Schedule\WebSchedule\bin\System.Net.Http.Formatting.xml
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Helpers.xml
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Http.xml
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Http.WebHost.xml
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Mvc.xml
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.Razor.xml
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.WebPages.xml
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.WebPages.Deployment.xml
+D:\Study\Web Schedule\WebSchedule\bin\System.Web.WebPages.Razor.xml
+D:\Study\Web Schedule\WebSchedule\bin\Antlr3.Runtime.pdb
+D:\Study\Web Schedule\WebSchedule\obj\Debug\WebSchedule.csproj.CoreCompileInputs.cache
+D:\Study\Web Schedule\WebSchedule\obj\Debug\WebSchedule.csproj.CopyComplete
+D:\Study\Web Schedule\WebSchedule\obj\Debug\WebSchedule.dll
+D:\Study\Web Schedule\WebSchedule\obj\Debug\WebSchedule.pdb
+D:\Study\Web Schedule\WebSchedule\bin\EntityFramework.SqlServerCompact.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.Data.SqlServerCe.dll
+D:\Study\Web Schedule\WebSchedule\bin\EntityFramework.SqlServerCompact.xml
+D:\Study\Web Schedule\WebSchedule\obj\Debug\WebSchedule.csprojAssemblyReference.cache
+D:\Study\Web Schedule\WebSchedule\bin\AutoMapper.dll
+D:\Study\Web Schedule\WebSchedule\bin\BLL.dll
+D:\Study\Web Schedule\WebSchedule\bin\DAL.dll
+D:\Study\Web Schedule\WebSchedule\bin\Ninject.dll
+D:\Study\Web Schedule\WebSchedule\bin\BLL.pdb
+D:\Study\Web Schedule\WebSchedule\bin\AutoMapper.pdb
+D:\Study\Web Schedule\WebSchedule\bin\AutoMapper.xml
+D:\Study\Web Schedule\WebSchedule\bin\DAL.pdb
+D:\Study\Web Schedule\WebSchedule\bin\DAL.dll.config
+D:\Study\Web Schedule\WebSchedule\bin\Ninject.xml
+D:\Study\Web Schedule\WebSchedule\bin\Ninject.Web.Common.dll
+D:\Study\Web Schedule\WebSchedule\bin\Ninject.Web.WebApi.dll
+D:\Study\Web Schedule\WebSchedule\bin\Ninject.Web.Common.xml
+D:\Study\Web Schedule\WebSchedule\bin\Ninject.Web.WebApi.xml
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Study\Web Schedule\WebSchedule\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\Web Schedule\WebSchedule\bin\Thinktecture.IdentityModel.Core.dll
+D:\Study\Web Schedule\WebSchedule\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Study\Web Schedule\WebSchedule\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Study\Web Schedule\WebSchedule\bin\Thinktecture.IdentityModel.Core.pdb
+D:\Study\Web Schedule\WebSchedule\obj\Debug\WebSchedule.Migrations.initial.resources
+D:\Study\Web Schedule\WebSchedule\obj\Debug\WebSchedule.csproj.GenerateResource.cache
